@@ -9,6 +9,7 @@
 
 ## Open source and looking for contribitors
 If you are keen to help out with some of these projects, please open a pull request!
+- [ ] NextFin - Next.JS for the Jellyfin client
 - [ ] DV-Cam - Frontend tool for ripping DV clips off of a DV camera (Maybe expand to more types of media)
 
 
