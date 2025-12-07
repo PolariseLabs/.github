@@ -1,15 +1,32 @@
-<img width="1500" height="500" alt="head1" src="https://github.com/user-attachments/assets/635c8178-66f9-445d-b288-9b80f052ca73" />
+# Polarise Labs
 
-## Welcome to Polarise Labs
+Practical, privacy‑minded software for small businesses and teams. Solving everyday workflow problems.
 
-### Current projects
-- [ ] Checky - Check in system for small buisnesses
-- [ ] Content manager - Simple, central management of assets
-- [ ] Tracky - Time tracking and automated invoicing
+## What We’re Building
 
-## Open source and looking for contribitors
-If you are keen to help out with some of these projects, please open a pull request!
-- [ ] NextFin - Next.JS for the Jellyfin client
-- [ ] DV-Cam - Frontend tool for ripping DV clips off of a DV camera (Maybe expand to more types of media)
+- **AI Studio** — An AI suite for business workflows and automation.
+- **Checky** — Simple check‑in and attendance for small businesses.
+- **Content Manager** — Centralized asset management with a minimal, clear UI.
+- **Freelance** — Time tracking and automated invoicing for independent work.
+- **NextFin** — A Jellyfin client built with Next.js.
+- **DV‑Cam** — Import DV footage through a browser (with room to extend to other media types).
 
+## At a Glance
 
+| Area              | Project         | Purpose                                         | Status        |
+|-------------------|-----------------|-------------------------------------------------|---------------|
+| AI                | AI Studio       | AI suite for business workflows                 | In progress   |
+| Attendance        | Checky          | Check‑in system for small businesses            | Abandoned     |
+| Content           | Content Manager | Central asset management                        | Early stage   |
+| Finance/Freelance | Freelance       | Time tracking and automated invoicing           | Final stage   |
+| Media             | DV‑Cam          | Import DV footage via a web UI                  | Open source   |
+| Media             | NextFin         | Jellyfin client built with Next.js              | Planning      |
+
+## Contributing
+
+We welcome issues and pull requests across all active and open‑source projects.
+
+- **Branches:** Use feature branches and open PRs early for feedback.
+- **Commits:** Prefer small, descriptive commits.
+- **Issues:** Create issues for tasks, bugs, and discussions.
+- **Reviews:** Provide clear PR descriptions, include screenshots or notes where helpful.
