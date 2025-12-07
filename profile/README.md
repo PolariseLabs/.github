@@ -1,3 +1,5 @@
+<img width="1245" height="453" alt="Group 21 (1)" src="https://github.com/user-attachments/assets/06320596-ec12-48f5-b12d-2af0e5fec7fa" />
+
 # Polarise Labs
 
 Practical, privacy‑minded software for small businesses and teams. Solving everyday workflow problems.
